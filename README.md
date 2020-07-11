@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/7709603?color=green&label=Stackoverflow%20Rep&style=flat-square)
+[![](https://img.shields.io/badge/-Mohnish%20Devadiga-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mohnish-devadiga/) [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/7709603?color=green&label=Stackoverflow%20Rep&style=flat-square)](https://stackoverflow.com/users/7709603/mohnish) [![](https://img.shields.io/badge/Website-moh.dev-green?logo=google-chrome&logoColor=white&style=flat-square)](https://www.mohdeva.com)
+
 ![Views](https://visitor-badge.glitch.me/badge?page_id=Mohnish226.Mohnish226)
 
 <!--
