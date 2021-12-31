@@ -14,12 +14,6 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Australia/Melbourne
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
@@ -35,7 +29,9 @@ jobs:
           plugin_lines: yes
           plugin_notable: yes
           plugin_notable_from: organization
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: .user.website
-          plugin_projects: yes
-          plugin_projects_limit: 4
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_limit: 2
+          plugin_stackoverflow_lines: 4
+          plugin_stackoverflow_lines_snippet: 2
+          plugin_stackoverflow_sections: answers-top, questions-recent
+          plugin_stackoverflow_user: 7709603
