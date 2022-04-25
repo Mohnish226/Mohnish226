@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![](https://img.shields.io/badge/-Mohnish%20Devadiga-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mohnish-devadiga/) [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/7709603?color=green&label=Stackoverflow%20Rep&style=flat-square)](https://stackoverflow.com/users/7709603/mohnish) [![](https://img.shields.io/badge/Website-moh.dev-green?logo=google-chrome&logoColor=white&style=flat-square)](https://www.mohdeva.com) ![Views](https://rebrand.ly/zqyidyu) ![Chromium HSTS preload](https://urlr.app/githubvisitors)
+[![](https://img.shields.io/badge/-Mohnish%20Devadiga-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mohnish-devadiga/) [![Stack Exchange reputation](https://stackoverflow-badge.vercel.app/?userID=7709603)](https://stackoverflow.com/users/7709603/mohnish) [![](https://img.shields.io/badge/Website-moh.dev-green?logo=google-chrome&logoColor=white&style=flat-square)](https://www.mohdeva.com) ![Views](https://rebrand.ly/zqyidyu) ![Chromium HSTS preload](https://urlr.app/githubvisitors)
 
 <details>
 <summary>Short Summary</summary>
